@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
 |  |
 | ------- |
@@ -17,4 +18,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
