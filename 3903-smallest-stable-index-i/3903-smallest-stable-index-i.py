@@ -1,13 +1,15 @@
 class Solution:
     def firstStableIndex(self, nums: list[int], k: int) -> int:
         n = len(nums)
-        indices = []
+        suffixMin = [0] * n
+        suffixMin[-1] = nums[-1]
+        for i in range(n-2, -1, -1):
+            suffixMin[i] = min(nums[i], suffixMin[i+1])
+        prefixMax = -1 
         for i in range(0, n):
-            list1 = nums[0:i+1]
-            list2 = nums[i:n]
-            if max(list1) - min(list2) <= k:
-                indices.append(i)
-        if len(indices) is not 0:
-            return min(indices)
+            if nums[i] > prefixMax:
+                prefixMax = nums[i]
+            if prefixMax - suffixMin[i] <= k:
+                return i
         return -1             
             
