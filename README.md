@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Linked List
 |  |
@@ -34,8 +35,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
