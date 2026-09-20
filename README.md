@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3498-reverse-degree-of-a-string](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
