@@ -1,14 +1,14 @@
 class Solution:
     def evaluate(self, s: str, knowledge: list[list[str]]) -> str:
         n = len (s)
-        knowledgeMap = {}
-        
+        i = 0
+
+        knowledgeMap = {}        
         for List in knowledge:
             knowledgeMap['(' + List[0] + ')'] =  List[1] 
 
         keysList = []
-
-        for i in range(0, n):
+        while (i < n):
             key = ''
             if s[i] == '(':
                 j = i
@@ -18,10 +18,22 @@ class Solution:
                 key += ')'
                 keysList.append(key)
                 i = j
+            i += 1
         
-        for key in keysList:
-            if key in knowledgeMap:
-                s = s.replace(key,  knowledgeMap.get(key))
+        i=0
+        ans = ''
+        keyIdx = 0
+        while (i < n):
+            if s[i] == '(':
+                key = keysList[keyIdx]
+                keyIdx += 1
+                if key in knowledgeMap:
+                    ans += knowledgeMap.get(key)
+                else:
+                    ans += '?'
+                i += len(key) - 1
             else:
-                s = s.replace(key, '?')
-        return s
+                ans+=s[i]
+            i+=1
+        return ans
+        
