@@ -20,20 +20,27 @@ class Solution:
                 i = j
             i += 1
         
-        i=0
-        ans = ''
-        keyIdx = 0
-        while (i < n):
-            if s[i] == '(':
-                key = keysList[keyIdx]
-                keyIdx += 1
-                if key in knowledgeMap:
-                    ans += knowledgeMap.get(key)
-                else:
-                    ans += '?'
-                i += len(key) - 1
-            else:
-                ans+=s[i]
-            i+=1
-        return ans
+        # i=0
+        # ans = ''
+        # keyIdx = 0
+        # while (i < n):
+        #     if s[i] == '(':
+        #         key = keysList[keyIdx]
+        #         keyIdx += 1
+        #         if key in knowledgeMap:
+        #             ans += knowledgeMap.get(key)
+        #         else:
+        #             ans += '?'
+        #         i += len(key) - 1
+        #     else:
+        #         ans+=s[i]
+        #     i+=1
+        # return ans
         
+        
+        for key in keysList:
+            if key in knowledgeMap:
+                s = s.replace(key,  knowledgeMap.get(key))
+            else:
+                s = s.replace(key, '?')
+        return s
