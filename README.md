@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/0078-subsets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
