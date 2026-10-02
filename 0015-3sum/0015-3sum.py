@@ -9,6 +9,8 @@ class Solution(object):
         nums.sort()
         n = len(nums)
         for idx,num in enumerate(nums):
+            if idx > 0 and nums[idx] == nums[idx - 1]:
+                continue
             l = idx + 1 
             r = n - 1
             while l < r:
@@ -17,13 +19,14 @@ class Solution(object):
                     ansList.append([num,nums[l],nums[r]])
                     l += 1
                     r -= 1
+                    while l < r and nums[l] == nums[l - 1]:
+                        l += 1
+                    while l < r and nums[r] == nums[r + 1]:
+                        r -= 1
                 elif Sum < 0:
                     l += 1
                 elif Sum > 0:
                     r -= 1
-        for List in ansList:
-            ansTuppleList.append(tuple(List))
-        ans2List = set(ansTuppleList)
-        finalAnsList = [list(x) for x in ans2List]
-        return finalAnsList         
+        
+        return ansList         
         
