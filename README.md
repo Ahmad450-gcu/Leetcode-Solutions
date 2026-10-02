@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/0078-subsets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [2706-buy-two-chocolates](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/2706-buy-two-chocolates) |
 ## Geometry
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String Matching
 |  |
