@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/0078-subsets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
