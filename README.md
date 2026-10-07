@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2706-buy-two-chocolates](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/2706-buy-two-chocolates) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [2574-left-and-right-sum-differences](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3903-smallest-stable-index-i](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## String
