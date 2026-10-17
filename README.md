@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/0078-subsets) |
+| [0877-stone-game](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0877-stone-game](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2396-strictly-palindromic-number](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
+| [0877-stone-game](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/0877-stone-game) |
 ## Stack
 |  |
 | ------- |
@@ -189,4 +192,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
