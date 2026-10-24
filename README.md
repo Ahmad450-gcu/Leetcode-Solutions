@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2396-strictly-palindromic-number](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
+| [2409-count-days-spent-together](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2409-count-days-spent-together](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
