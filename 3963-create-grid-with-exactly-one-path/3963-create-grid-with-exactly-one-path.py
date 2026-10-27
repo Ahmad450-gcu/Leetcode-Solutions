@@ -1,8 +1,7 @@
 class Solution:
     def createGrid(self, m: int, n: int) -> list[str]:
-        myList = []
+        # myList = []
         # row = 1
-        
         # while row <= m:
         #     currRowPath = ''
         #     col = 1
