@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2706-buy-two-chocolates](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/2706-buy-two-chocolates) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2706-buy-two-chocolates](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/2706-buy-two-chocolates) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ahmad450-gcu/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Geometry
